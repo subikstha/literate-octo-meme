@@ -1,9 +1,20 @@
 {
   "notes": [
     {
-      "tags": [],
-      "content": "hello",
-      "id": 1784278123692
+      "tags": [
+        "work",
+        " serious"
+      ],
+      "content": "study node.js",
+      "id": 1784288349121
+    },
+    {
+      "tags": [
+        "work",
+        " serious"
+      ],
+      "content": "complete intro to node.js",
+      "id": 1784288370697
     }
   ]
 }
