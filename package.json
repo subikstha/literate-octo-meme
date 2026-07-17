@@ -1,0 +1,23 @@
+{
+  "name": "notes-cli",
+  "version": "1.0.0",
+  "description": "notes cli app",
+  "homepage": "https://github.com/subikstha/literate-octo-meme#readme",
+  "bugs": {
+    "url": "https://github.com/subikstha/literate-octo-meme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subikstha/literate-octo-meme.git"
+  },
+  "license": "ISC",
+  "author": "subikstha",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "notes": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
