@@ -12,12 +12,15 @@
   },
   "license": "ISC",
   "author": "subikstha",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "bin": {
-    "notes": "./index.js"
+    "note": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yargs": "^18.0.0"
   }
 }
