@@ -1,5 +1,12 @@
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
+import {
+  newNote,
+  getAllNotes,
+  findNotes,
+  removeNote,
+  removeAllNotes,
+} from "./notes.js";
 
 yargs(hideBin(process.argv))
   .command(
